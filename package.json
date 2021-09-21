@@ -18,9 +18,6 @@
   },
   "homepage": "https://github.com/FTRWD-AUG-2021/lab-express-basic-site#readme",
   "dependencies": {
-    "-": "^0.0.1",
-    "express": "^4.17.1",
-    "g": "^2.0.1",
-    "nodemon": "^2.0.12"
+    "express": "^4.17.1"
   }
 }
